@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20643190778",
+    "firebase_url": "https://barangay-id-system-default-rtdb.firebaseio.com",
+    "project_id": "barangay-id-system",
+    "storage_bucket": "barangay-id-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20643190778:android:f830cb817ad1a118bbf643",
+        "android_client_info": {
+          "package_name": "com.sprtcoding.semiraraidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20643190778-mmd7739gfu4pffcfn5lgucmj2qjap2jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EXNml18BNaY-4LKxWb_lYB5hD4HMLWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20643190778-mmd7739gfu4pffcfn5lgucmj2qjap2jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

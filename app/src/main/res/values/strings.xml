@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Semirara ID App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="barangay_id_system">Barangay ID System</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="details">
+        <item>Personal</item>
+        <item>Location</item>
+        <item>Usage</item>
+        <item>Employment</item>
+        <item>Loan</item>
+    </array>
+</resources>
